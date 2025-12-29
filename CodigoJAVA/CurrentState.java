@@ -1,11 +1,9 @@
 /*
 DATOS
-*Mora Guzman Jose Antonio
+*Manrique Godinez Daniel Alejandro
+*Aguilar Bautista César Fernando
 *Proyecto compiladores
 *Opcion LOGO
-*fecha 12-dic-2021
-*grupo 3CM17
-*materia: compiladores
 */
 import java.awt.Color;
 import java.util.ArrayList;

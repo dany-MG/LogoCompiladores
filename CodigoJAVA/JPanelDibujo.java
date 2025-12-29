@@ -1,6 +1,7 @@
 /*
 DATOS
 *Manrique Godinez Daniel Alejandro
+*Aguilar Bautista César Fernando
 *Proyecto compiladores
 *Opcion LOGO
 */

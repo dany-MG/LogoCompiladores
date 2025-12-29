@@ -1,9 +1,9 @@
 /*
 DATOS
-*Mora Guzman Jose Antonio
+*Manrique Godinez Daniel Alejandro
+*Aguilar Bautista César Fernando
 *Proyecto compiladores
 *Opcion LOGO
-*Modificación GUI: Botones Redondeados y Estilo Moderno
 */
 import java.awt.BorderLayout;
 import java.awt.Color;
