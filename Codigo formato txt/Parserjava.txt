@@ -1,11 +1,9 @@
 /*
 DATOS
-*Mora Guzman Jose Antonio
+*Manrique Godinez Daniel Alejandro
+*Aguilar Bautista César Fernando
 *Proyecto compiladores
 *Opcion LOGO
-*fecha 12-dic-2021
-*grupo 3CM17
-*materia: compiladores
 */
 
 //### This file created by BYACC 1.8(/Java extension  1.15)

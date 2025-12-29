@@ -1,11 +1,8 @@
 /*
 DATOS
-*Mora Guzman Jose Antonio
+*Manrique Godinez Daniel Alejandro
 *Proyecto compiladores
 *Opcion LOGO
-*fecha 12-dic-2021
-*grupo 3CM17
-*materia: compiladores
 */
 //#############################################
 //## file: Parser.java

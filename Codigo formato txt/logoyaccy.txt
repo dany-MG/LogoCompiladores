@@ -3,10 +3,10 @@ DATOS
 *Mora Guzman Jose Antonio
 *Proyecto compiladores
 *Opcion LOGO
-*fecha 12-dic-2021
-*grupo 3CM17
+*grupo 5CM2
 *materia: compiladores
 */
+
 %{
 	import java.lang.Math;
 	import java.io.*;
